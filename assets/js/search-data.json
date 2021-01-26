@@ -1,22 +1,11 @@
 {
   
-    
-        "post0": {
-            "title": "Hey there!",
-            "content": "",
-            "url": "https://griolu.github.io/deeplearningblog/2021/01/25/New-Year-New-Me.html",
-            "relUrl": "/2021/01/25/New-Year-New-Me.html",
-            "date": " • Jan 25, 2021"
-        }
-        
-    
-  
 
   
   
 
   
-      ,"page1": {
+      "page1": {
           "title": "About Me",
           "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://griolu.github.io/deeplearningblog/about/",
