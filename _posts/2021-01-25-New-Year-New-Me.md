@@ -7,4 +7,5 @@ I'm going to be uploading my progress of learning deep learning with fast.ai. So
 
 ## Where to contact me (not that I check them often)
 Twitter: @griolu
+
 Instagram: @geon_youn
