@@ -1,3 +1,10 @@
+---
+toc: true
+layout: post
+description: First post of the year.
+categories: [markdown]
+title: "New year, New Me"
+---
 # Hey there!
 ## Introduction
 Hi, I'm Geon and this blog is where I'll be posting my progress with deep learning. I've delayed continuing on with fast.ai until the new year (and new semester). As of January 25, 2021, I finished my second-last semester of high school and am starting my last semester on February 2, 2021. In the second semester, I'll be more free and have more time to work on this blog. I'm free of English and I'll have a pretty nice schedule: a spare period, Chemistry, Math, and Physics. 
